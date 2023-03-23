@@ -17,6 +17,7 @@ This project involves analyzing and visualizing internet access data in Oregon c
 * [M-Lab Internet Speed Test](https://www.measurementlab.net/data/)
 * [NTIA County Level Broadband Indicator Data](https://broadbandusa.maps.arcgis.com/home/item.html?id=f8d0b09e473942abb5fb52901dc2fe0f)
 * [NTIA Tract Level Broadband Indicator Data](https://broadbandusa.maps.arcgis.com/home/item.html?id=0571a8436a8f4b909ccc5d54b4e6d245)
+* [USDA Rural-Urban Codes](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
 
 **Packages**
 
