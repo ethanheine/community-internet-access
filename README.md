@@ -1,5 +1,5 @@
 
-## Oregon Communities Internet Access Analysis
+## Oregon Community Internet Access Analysis
 
 Ethan Heine
 
